@@ -6,3 +6,6 @@
 > Layout: [ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Layout%20N%C3%A3o-identificado%20Novo%20Caged%20Movimenta%C3%A7%C3%A3o.xlsx](ftp://ftp.mtps.gov.br/pdet/microdados/NOVO%20CAGED/Layout%20N%C3%A3o-identificado%20Novo%20Caged%20Movimenta%C3%A7%C3%A3o.xlsx)  <br> 
 
 
+## Shared OneDrive 
+Access here: [https://1drv.ms/f/c/34ed68c2d0e7e9fe/EmG9ARE95OlCsLfV-beGVMMB_frLD_fPBHqgvTFStRrOFA?e=amiVXb](https://1drv.ms/f/c/34ed68c2d0e7e9fe/EmG9ARE95OlCsLfV-beGVMMB_frLD_fPBHqgvTFStRrOFA?e=amiVXb)  
+
