@@ -18,4 +18,4 @@ Access here: [https://1drv.ms/f/c/34ed68c2d0e7e9fe/EmG9ARE95OlCsLfV-beGVMMB_frLD
 4. Silver -> Gold (Agg) + BI;  
 5. DAG;  
 6. Automatize date modification detect.
-7.   
+   
